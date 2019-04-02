@@ -1,4 +1,4 @@
-tring):
+def reverse(first_string):
     rev_string = []
     index = len(first_string) - 1
     while index >= 0:
