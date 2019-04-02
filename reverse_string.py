@@ -7,6 +7,7 @@ def reverse(first_string):
     return ''.join(rev_string)    
    
   
-reverse("abc")
-reverse ("a")
-reverse ("")
+print(reverse("abc"))
+print(reverse("a"))
+print(reverse(""))
+print(reverse("goonies"))
