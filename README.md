@@ -1,1 +1,1 @@
-# learning-JS
+# Learning Python
